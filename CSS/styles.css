@@ -1,15 +1,15 @@
-h1  {
-  colour: blue;
+h1{
+  color: red;
   text-align: center;
 }
-h2  {
-  color: green;
+h2{
+  color: red;
   font-style: italic;
   text-align: center;
 }
-p   {
+p{
   font-family: sans-serif;
 }
-ul  {
+ul{
   line-height: 40px;
 }
